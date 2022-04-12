@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VlinZki
+- 👀 I’m interested in coding, anime,and music
+- 🌱 I’m currently learning C++ and HTML
